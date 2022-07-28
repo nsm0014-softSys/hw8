@@ -1,0 +1,8 @@
+prefix=/home/noahfireball1/softSys/Homework/hw-nsm0014/ros_ws/install
+
+Name: imu_sub
+Description: Description of imu_sub
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

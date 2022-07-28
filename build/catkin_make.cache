@@ -1,0 +1,2 @@
+imu_pub:imu_sub
+-DCATKIN_DEVEL_PREFIX=/home/noahfireball1/softSys/Homework/hw-nsm0014/ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/noahfireball1/softSys/Homework/hw-nsm0014/ros_ws/install -G Unix Makefiles
